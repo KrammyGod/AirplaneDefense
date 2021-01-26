@@ -1,4 +1,4 @@
-# AirplaneDefense
+# Airplane Defense
 This is an original game created using python's module, pygame.
 
 ## Game Rules:
