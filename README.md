@@ -37,4 +37,5 @@ I have added a "hacks" button. Do not worry, this will not hack your device. It 
 ## Credits:
 I have attached a License.txt for the sprite sheet, and provided images, thank you, Kenney Vleugels.  
 Main menu music: Life by Roa, Genre and Mood: Dance & Electronic + Bright. Link: https://www.youtube.com/watch?v=dXqEepAme-M  
-In game music: Earth by MusicbyAden, Genre and Mood: Dance & Electronic + Inspirational. Link: https://www.youtube.com/watch?v=5yIbZVOv438
+In game music: Earth by MusicbyAden, Genre and Mood: Dance & Electronic + Inspirational. Link: https://www.youtube.com/watch?v=5yIbZVOv438  
+And of course, to the great Computer Science teacher, Mr. Rao for the lessons on pygame!
