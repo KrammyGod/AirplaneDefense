@@ -7,7 +7,7 @@ This is a tower defense inspired game:
 The goal of the game is to survive as many waves of airplanes as possible, with each wave having increasing speed, and reach the highest score possible.
 
 ## How to play this game:
-Just download the files, and run main.py!
+Just download the zip, unzip all the files, and run main.py!
 
 ### Controls:
 W, S, Q, and mouse control
